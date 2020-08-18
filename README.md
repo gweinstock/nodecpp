@@ -7,7 +7,7 @@ git clone https://github.com/gweinstock/nodecpp.git
 
 build the addon:
 
-cd nodecpp/
+cd nodecpp
 node-gyp configure build
 
 run the addon:
